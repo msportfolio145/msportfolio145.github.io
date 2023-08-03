@@ -1290,7 +1290,7 @@ $font-family_1: monospace;
             &.title{
                 font-size: 65px !important;
                 line-height: 90px !important;
-                color: var(--color-white) !important;
+                color: var(--color-grey) !important;
                 letter-spacing: 0.5px !important;
                 @media #{$sm-layout} {
                     font-size: 40px !important;
@@ -1301,7 +1301,7 @@ $font-family_1: monospace;
         p{
             &.disc{
                 margin-top: 0 !important;
-                color: var(--color-white) !important;
+                color: var(--color-grey) !important;
                 @media #{$sm-layout} {
                     letter-spacing: 2px !important;
                 }
