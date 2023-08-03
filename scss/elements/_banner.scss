@@ -1301,7 +1301,7 @@ $font-family_1: monospace;
         p{
             &.disc{
                 margin-top: 0 !important;
-                color: #8f8c8c !important;
+                color: #8f8c8c;
                 @media #{$sm-layout} {
                     letter-spacing: 2px !important;
                 }
